@@ -32,6 +32,7 @@ payload]]></ee:set-payload>
 		</ee:transform>
 		<logger level="INFO" doc:name="Logger" doc:id="a0976dcb-308c-48f4-aa60-37a81f8c528f" message="json formaa of data:::#[payload]"/>
 		<logger level="INFO" doc:name="flow of db connect is complete" doc:id="58c88699-591a-4c49-b09c-41a2385c8269" />
+		<logger level="INFO" doc:name="Logger" doc:id="1f238698-7933-4350-a509-b33668f5da9d" message="extra logger"/>
 		<logger level="INFO" doc:name="end of the db data" doc:id="f17f549e-3036-4d15-9fcb-a74d47a9ec74" />
 	</flow>
 </mule>
